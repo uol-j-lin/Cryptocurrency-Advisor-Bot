@@ -5,4 +5,4 @@
 * CSV parsing code is optimized  using explicit cache prefetching to improve the performance of exchange data retrieval
 
 # Full Documentation of CLI Cryptocurrency Advisor Bot Functionality
-https://docs.google.com/document/d/1hDOphiB17ZEDzMjWaGnLHkbaSQwi0DFkl17FQAW7D_8/edit
+[Link to Documentation](https://docs.google.com/document/d/1hDOphiB17ZEDzMjWaGnLHkbaSQwi0DFkl17FQAW7D_8/)
